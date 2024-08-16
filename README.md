@@ -13,7 +13,6 @@
 
 - **前端**：React
 - **后端**：Node.js, Express
-- **数据库**：<选择的数据库，如 MongoDB, MySQL 等>
 - **邮件发送**：Nodemailer
 
 ## 安装和使用
@@ -21,7 +20,7 @@
 1. **克隆本仓库**：
    ```bash
    git clone https://github.com/yourusername/email-sender.git
-   cd email-sender
+   cd massemail
    ```
 
 2. **安装依赖项**：
@@ -38,16 +37,8 @@
      npm install
      ```
 
-3. **配置环境变量**：
 
-   在根目录下创建一个 `.env` 文件，并添加以下内容：
-   ```env
-   EMAIL_SERVICE=<你的邮件服务提供商>
-   EMAIL_USER=<你的邮箱地址>
-   EMAIL_PASS=<你的邮箱密码>
-   ```
-
-4. **启动项目**：
+3. **启动项目**：
 
    - **启动前端**：
      ```bash
