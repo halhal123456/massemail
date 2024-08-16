@@ -1,0 +1,17 @@
+.ql-toolbar {
+  border-top-left-radius: 5px; /* 设置工具栏的左上角圆角 */
+  border-top-right-radius: 5px; /* 设置工具栏的右上角圆角 */
+  border: 1px solid #ccc; /* 调整工具栏边框样式 */
+}
+
+.ql-container {
+  border-bottom-left-radius: 5px; /* 设置编辑栏的左下角圆角 */
+  border-bottom-right-radius: 5px; /* 设置编辑栏的右下角圆角 */
+  border: 1px solid #ccc; /* 调整编辑栏边框样式 */
+  border-top: none; /* 去掉编辑栏顶部的边框，避免重复 */
+}
+
+.ql-editor {
+  min-height: 200px; /* 调整编辑器高度 */
+  padding: 10px; /* 调整内边距 */
+}
