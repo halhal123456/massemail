@@ -1,5 +1,3 @@
-好的，这里是全部内容使用 Markdown 格式的 README 文件：
-
 ```markdown
 # 邮件群发网站
 
